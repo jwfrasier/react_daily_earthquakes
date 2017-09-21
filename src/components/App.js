@@ -3,7 +3,7 @@ import '../styles/App.css';
 import moment from 'moment'
 import EarthquakeInfo from "./EarthquakeInfo.js"
 import EarthquakeList from "./EarthquakeList.js"
-import Data from "./"
+import Data from "../data/earthquakes"
 
 class App extends Component {
   render() {
